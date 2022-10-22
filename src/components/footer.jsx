@@ -10,7 +10,7 @@ const Footer = () => {
         .<br />
         Wanna check GitHub Repository!{" "}
         <a
-          href="https://github.com/zeshanwebdeveloper/Game_Master_Mind"
+          href="https://github.com/zeshanwebdeveloper/master-mind-with-react-plus-typescript"
           target="_blank"
         >
           Click here
